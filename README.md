@@ -1,4 +1,4 @@
-# CursoGithub
+# CursoGithub 
 
 Curso Udemy - Git e GitHub para iniciantes
 
@@ -8,3 +8,4 @@ Mais uma Modificação para Commit
 
 Gostando do Curso, bora toma um café.
 
+duiavxjkzvjkxcbvzxmfgkausedfh

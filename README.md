@@ -8,4 +8,3 @@ Mais uma Modificação para Commit
 
 Gostando do Curso, bora toma um café.
 
-duiavxjkzvjkxcbvzxmfgkausedfh
